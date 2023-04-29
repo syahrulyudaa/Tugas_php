@@ -9,3 +9,4 @@ for ($i = 0; $i <= $tinggi; $i++) {
     }
     echo "<br>";
 }
+?>
