@@ -18,3 +18,4 @@ switch ($nilai) {
         echo "Nilai Anda E";
         break;
 }
+?>
