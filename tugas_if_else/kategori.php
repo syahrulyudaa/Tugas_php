@@ -21,3 +21,4 @@ if ($bmi < 18.5) {
 
 // menampilkan hasil perhitungan
 echo "Halo $nama, Nilai BMI anda adalah " . round($bmi, 2) . ", Anda termasuk " . $kategori;
+?>
