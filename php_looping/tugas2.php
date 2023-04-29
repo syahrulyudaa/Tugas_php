@@ -8,3 +8,4 @@ for ($i = 1; $i <= $tinggi; $i++) { // looping untuk setiap baris pada segitiga
     }
     echo "<br>"; // menambahkan baris baru setelah selesai menampilkan karakter pada setiap kolom
 }
+?>
